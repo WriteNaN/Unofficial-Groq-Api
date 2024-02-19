@@ -1,0 +1,20 @@
+{
+  "name": "groq",
+  "module": "./src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "bun run build.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/random-useragent": "^0.3.3",
+    "bun-plugin-dts": "^0.2.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "random-useragent": "^0.5.0"
+  }
+}
