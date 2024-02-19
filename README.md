@@ -6,6 +6,10 @@
 
 2) If you were to continue working on this, I would suggest using additional proxies. Currently only the useragent is randomized.
 
+## Getting Started
+
+install [bun](https://bun.sh/) & clone this repo. and do bun run . / file. feel free to contact me for anything!
+
 #### Importing The Lib
 ```ts
 import UnofficialGroqApi, { Chat, generateTextCompletion, getGuestToken } from "./src/index";
