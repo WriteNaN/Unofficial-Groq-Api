@@ -22,6 +22,7 @@ groqApi.on("ready", async () => {
   };
   const completionResult = await groqApi.generateTextCompletion(completionOptions);
   console.log("Text Completion Result:", await completionResult.getFullText());
+  // supports streaming as well! - completionResult.stream
   const chatOptions = {
     model: "mixtral-8x7b-32768",
     systemPrompt: "Please provide useful and actionable answers.",
