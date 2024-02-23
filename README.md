@@ -1,5 +1,7 @@
 ## Unofficial Groq Wrapper Api
 
+### NOTE: THIS REPOSITORY IS CURRENTLY TAKEN DOWN UPON GROQ TEAM'S REQUEST, AND WAITING TO ADD LIMITS ON THE GUEST TOKEN. I will make it public again after they fix it! It's fun to watch the network tab and see where the request goes. :D
+
 ### Important Things To Note
 
 1) This repository was made solely for educational purposes through their guest api reverse engineered. It's just a matter of time this might get patched in, through cloudflare proxying, ratelimiting, more complicated authentication system etc. I take NO RESPONSIBILITY of what you do with it.
