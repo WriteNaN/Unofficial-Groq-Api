@@ -1,6 +1,6 @@
 ## Unofficial Groq Wrapper Api
 
-### NOTE: THIS REPOSITORY IS CURRENTLY TAKEN DOWN UPON GROQ TEAM'S REQUEST, AND WAITING TO ADD LIMITS ON THE GUEST TOKEN. I will make it public again after they fix it! It's fun to watch the network tab and see where the request goes. :D
+**NOTE: THIS REPOSITORY IS CURRENTLY TAKEN DOWN UPON GROQ TEAM'S REQUEST, AND WAITING TO ADD LIMITS ON THE GUEST TOKEN. I will make it public again after they fix it.**
 
 ### Important Things To Note
 
