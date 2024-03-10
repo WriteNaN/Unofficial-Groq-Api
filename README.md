@@ -1,7 +1,8 @@
 ## Unofficial Groq Wrapper Api
 
-They added authentication and an official api so from now you can use it! :D
-~~**NOTE: THIS REPOSITORY IS CURRENTLY TAKEN DOWN UPON GROQ TEAM'S REQUEST, AND WAITING TO ADD LIMITS ON THE GUEST TOKEN. I will make it public again after they fix it.**~~
+#### They added authentication and an official api so from now you can use it! :D
+
+~~*NOTE: THIS REPOSITORY IS CURRENTLY TAKEN DOWN UPON GROQ TEAM'S REQUEST, AND WAITING TO ADD LIMITS ON THE GUEST TOKEN. I will make it public again after they fix it.*~~
 
 ### Important Things To Note
 
